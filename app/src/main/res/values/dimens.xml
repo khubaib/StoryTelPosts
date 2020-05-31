@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="detail_backdrop_height">256dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="margin_wide">16dp</dimen>
+    <dimen name="box_text_size">24sp</dimen>
+</resources>
